@@ -1,0 +1,14 @@
+D:\ESPRIT\4 ARC-TIC\.NET\MohamedOuerfelliRendu1\AM.ApplicationCore\obj\Debug\net8.0\AM.ApplicationCore.GeneratedMSBuildEditorConfig.editorconfig
+D:\ESPRIT\4 ARC-TIC\.NET\MohamedOuerfelliRendu1\AM.ApplicationCore\obj\Debug\net8.0\AM.ApplicationCore.AssemblyInfoInputs.cache
+D:\ESPRIT\4 ARC-TIC\.NET\MohamedOuerfelliRendu1\AM.ApplicationCore\obj\Debug\net8.0\AM.ApplicationCore.AssemblyInfo.cs
+D:\ESPRIT\4 ARC-TIC\.NET\MohamedOuerfelliRendu1\AM.ApplicationCore\obj\Debug\net8.0\AM.ApplicationCore.csproj.CoreCompileInputs.cache
+D:\ESPRIT\4 ARC-TIC\.NET\MohamedOuerfelliRendu1\AM.ApplicationCore\bin\Debug\net8.0\AM.ApplicationCore.deps.json
+D:\ESPRIT\4 ARC-TIC\.NET\MohamedOuerfelliRendu1\AM.ApplicationCore\bin\Debug\net8.0\AM.ApplicationCore.runtimeconfig.json
+D:\ESPRIT\4 ARC-TIC\.NET\MohamedOuerfelliRendu1\AM.ApplicationCore\bin\Debug\net8.0\AM.ApplicationCore.dll
+D:\ESPRIT\4 ARC-TIC\.NET\MohamedOuerfelliRendu1\AM.ApplicationCore\bin\Debug\net8.0\AM.ApplicationCore.pdb
+D:\ESPRIT\4 ARC-TIC\.NET\MohamedOuerfelliRendu1\AM.ApplicationCore\obj\Debug\net8.0\AM.ApplicationCore.csproj.AssemblyReference.cache
+D:\ESPRIT\4 ARC-TIC\.NET\MohamedOuerfelliRendu1\AM.ApplicationCore\obj\Debug\net8.0\AM.ApplicationCore.dll
+D:\ESPRIT\4 ARC-TIC\.NET\MohamedOuerfelliRendu1\AM.ApplicationCore\obj\Debug\net8.0\refint\AM.ApplicationCore.dll
+D:\ESPRIT\4 ARC-TIC\.NET\MohamedOuerfelliRendu1\AM.ApplicationCore\obj\Debug\net8.0\AM.ApplicationCore.pdb
+D:\ESPRIT\4 ARC-TIC\.NET\MohamedOuerfelliRendu1\AM.ApplicationCore\obj\Debug\net8.0\AM.ApplicationCore.genruntimeconfig.cache
+D:\ESPRIT\4 ARC-TIC\.NET\MohamedOuerfelliRendu1\AM.ApplicationCore\obj\Debug\net8.0\ref\AM.ApplicationCore.dll

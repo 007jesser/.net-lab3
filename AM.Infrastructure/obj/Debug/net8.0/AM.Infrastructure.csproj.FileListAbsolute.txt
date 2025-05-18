@@ -1,0 +1,17 @@
+D:\ESPRIT\4 ARC-TIC\.NET\MohamedOuerfelliRendu1\AM.Infrastructure\bin\Debug\net8.0\AM.Infrastructure.deps.json
+D:\ESPRIT\4 ARC-TIC\.NET\MohamedOuerfelliRendu1\AM.Infrastructure\bin\Debug\net8.0\AM.Infrastructure.runtimeconfig.json
+D:\ESPRIT\4 ARC-TIC\.NET\MohamedOuerfelliRendu1\AM.Infrastructure\bin\Debug\net8.0\AM.Infrastructure.dll
+D:\ESPRIT\4 ARC-TIC\.NET\MohamedOuerfelliRendu1\AM.Infrastructure\bin\Debug\net8.0\AM.Infrastructure.pdb
+D:\ESPRIT\4 ARC-TIC\.NET\MohamedOuerfelliRendu1\AM.Infrastructure\bin\Debug\net8.0\AM.ApplicationCore.dll
+D:\ESPRIT\4 ARC-TIC\.NET\MohamedOuerfelliRendu1\AM.Infrastructure\bin\Debug\net8.0\AM.ApplicationCore.pdb
+D:\ESPRIT\4 ARC-TIC\.NET\MohamedOuerfelliRendu1\AM.Infrastructure\obj\Debug\net8.0\AM.Infrastructure.csproj.AssemblyReference.cache
+D:\ESPRIT\4 ARC-TIC\.NET\MohamedOuerfelliRendu1\AM.Infrastructure\obj\Debug\net8.0\AM.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\ESPRIT\4 ARC-TIC\.NET\MohamedOuerfelliRendu1\AM.Infrastructure\obj\Debug\net8.0\AM.Infrastructure.AssemblyInfoInputs.cache
+D:\ESPRIT\4 ARC-TIC\.NET\MohamedOuerfelliRendu1\AM.Infrastructure\obj\Debug\net8.0\AM.Infrastructure.AssemblyInfo.cs
+D:\ESPRIT\4 ARC-TIC\.NET\MohamedOuerfelliRendu1\AM.Infrastructure\obj\Debug\net8.0\AM.Infrastructure.csproj.CoreCompileInputs.cache
+D:\ESPRIT\4 ARC-TIC\.NET\MohamedOuerfelliRendu1\AM.Infrastructure\obj\Debug\net8.0\AM.Infra.6BD442B8.Up2Date
+D:\ESPRIT\4 ARC-TIC\.NET\MohamedOuerfelliRendu1\AM.Infrastructure\obj\Debug\net8.0\AM.Infrastructure.dll
+D:\ESPRIT\4 ARC-TIC\.NET\MohamedOuerfelliRendu1\AM.Infrastructure\obj\Debug\net8.0\refint\AM.Infrastructure.dll
+D:\ESPRIT\4 ARC-TIC\.NET\MohamedOuerfelliRendu1\AM.Infrastructure\obj\Debug\net8.0\AM.Infrastructure.pdb
+D:\ESPRIT\4 ARC-TIC\.NET\MohamedOuerfelliRendu1\AM.Infrastructure\obj\Debug\net8.0\AM.Infrastructure.genruntimeconfig.cache
+D:\ESPRIT\4 ARC-TIC\.NET\MohamedOuerfelliRendu1\AM.Infrastructure\obj\Debug\net8.0\ref\AM.Infrastructure.dll

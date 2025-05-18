@@ -1,0 +1,59 @@
+﻿@model IEnumerable<AM.ApplicationCore.Domain.Patient>
+
+@{
+    ViewData["Title"] = "Patient";
+}
+
+<h1>Patient</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.CodePatient)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.EmailPatient)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Informations)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.NomComplet)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.NumeroTel)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.CodePatient)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.EmailPatient)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Informations)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.NomComplet)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.NumeroTel)
+            </td>
+            <td>
+                @Html.ActionLink("Edit", "Edit", new { /* id=item.PrimaryKey */ }) |
+                @Html.ActionLink("Details", "Details", new { /* id=item.PrimaryKey */ }) |
+                @Html.ActionLink("Delete", "Delete", new { /* id=item.PrimaryKey */ })
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
